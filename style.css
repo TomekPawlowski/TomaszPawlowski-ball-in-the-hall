@@ -1,0 +1,14 @@
+#arena {
+
+    width:500px;
+    height: 500px;
+    background: white;
+    border: 2px solid;
+}
+
+.dziura {
+  
+    background: red;
+  
+
+}
